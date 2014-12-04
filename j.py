@@ -186,7 +186,7 @@ def move_king(board):
 					board[x][y], board[x-1][y-1] = "■", board[x][y] 
 					break
 				else:
-					print("이동할수 없습니다.")
+					print("이동 할 수 없습니다.")
 
 
 	
